@@ -1,0 +1,30 @@
+# Core Libraries
+
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+
+scikit-learn==1.5.1
+
+# Visualization
+
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Deep Learning
+
+tensorflow==2.19.0
+
+# Recommender Systems
+
+scikit-surprise==1.1.4
+
+# Explainability
+
+shap==0.45.1
+
+# Optional (for notebooks)
+
+jupyter==1.0.0
+notebook==7.2.0
